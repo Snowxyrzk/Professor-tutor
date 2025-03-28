@@ -77,4 +77,4 @@ Este bookmarklet analisa páginas web com questões e fornece respostas precisas
 - Depende da API do Gemini
 - Funciona melhor com textos claros
 
-# desenvolvido por: snowzin e Ducal
+# desenvolvido por: Snow e Ducal
