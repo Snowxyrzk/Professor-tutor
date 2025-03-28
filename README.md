@@ -35,33 +35,12 @@ Este bookmarklet analisa páginas web com questões e fornece respostas precisas
    - Use o botão azul que aparecer
    - A resposta será exibida e desaparecerá automaticamente
 
-</details>
-
-## ⚙️ Configuração
-
-<details>
-<summary>🔧 Expandir Configurações</summary>
-
-1. **Chave da API**:
-   - Obtenha uma chave no [Google AI Studio](https://aistudio.google.com/)
-   - Substitua `SUA_CHAVE_DE_API_AQUI` no código
-
-2. **Personalização**:
-   ```javascript
-   // Tempo que a resposta fica visível (em milissegundos)
-   setTimeout(() => { panel.style.display = 'none' }, 8000);
-
-   // Cor do botão principal
-   actionBtn.style.backgroundColor = '#4285f4'; // Azul do Google
-   ```
-</details>
-
 ## 📥 Instalação
 
 1. Copie o código completo acima
 2. Crie um novo bookmark/favorito no seu navegador
 3. No campo URL, cole o código inteiro
-4. Salve com o nome "Gemini Helper"
+4. Salve com o nome "hack tutor"
 
 ## 🌟 Recursos
 
@@ -73,7 +52,7 @@ Este bookmarklet analisa páginas web com questões e fornece respostas precisas
 
 ## ⚠️ Limitações
 
-- Requer conexão com internet
+- só funciona com texto perguntas com imagens não funcionam
 - Depende da API do Gemini
 - Funciona melhor com textos claros
 
